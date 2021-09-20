@@ -1,0 +1,15 @@
+@import 'reset/reset';
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+@import 'variables';
+
+@import 'fold/header';
+@import 'components/buttons';
+@import 'components/title';
+@import 'fold/site';
+@import 'fold/footer';

@@ -1,0 +1,8 @@
+1. Comando para gerar os arquivos css com o sass
+$ sass .\source\scss\:.\assets\css
+
+2. Comando para gerar os arquivos css automaticamente com o sass
+$ sass .\source\scss\:.\assets\css --watch
+
+3. Comando para gerar os arquivos css minificados automaticamente com o sass
+$ sass .\source\scss\:.\assets\css --watch --style=compressed
